@@ -22,6 +22,8 @@ public class LeerEscribirArchivo
     { 
         rutaArchivo = nom;
     } 
+    //aqui se hizo un cambio
+    
     public String getRutaArchivo()
     { 
        return rutaArchivo;
